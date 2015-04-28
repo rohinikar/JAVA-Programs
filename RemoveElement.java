@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int removeElement(int[] A, int elem) {
         int j=0;
