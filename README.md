@@ -1,2 +1,1 @@
-# hello-world
-The first program in GitHub
+This repository contains various JAVA programs.
